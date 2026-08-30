@@ -1,2 +1,2 @@
-# ikyyystore
+# ikyyystore.io
 ikyyystore
